@@ -1,0 +1,19 @@
+a. vm1  Org1  35.209.11.189
+b. vm2  Org2  35.208.75.238
+c. vm3  Org3  35.208.127.204
+d. vm4  Ord.Org - 34.29.183.135
+
+
+
+"success": true,
+"message": "coby1 enrolled Successfully",
+"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjA0MjA4NzIsInVzZXJuYW1lIjoiY29ieTEiLCJvcmdOYW1lIjoiT3JnMSIsImlhdCI6MTcyMDM4NDg3Mn0.aaI-qMptc4jNwphkIQyITQ1ef-30nqzF5FnoHGhZKPg"
+
+
+{
+    "result": {
+        "message": "Successfully added the car asset with key coby1car"
+    },
+    "error": null,
+    "errorData": null
+}
